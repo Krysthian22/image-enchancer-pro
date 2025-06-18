@@ -1,0 +1,6 @@
+{
+  "name": "Image Enhancer Pro",
+  "description": "Upload images to convert them to grayscale, set to 3:4 aspect ratio, and optionally apply a smoothing filter directly in your browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
